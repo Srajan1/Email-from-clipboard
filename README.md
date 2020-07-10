@@ -1,1 +1,1 @@
-# Email-from-clipboard
+This simple python script will help you fetch the emails. All the user has to do is to copy the text from which the user wants to fetch the email and then run the script. All the emails will be pasted to user's clipboard
